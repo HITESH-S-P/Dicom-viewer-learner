@@ -1,0 +1,2 @@
+/* empty css              *//* empty css              */import{i}from"./idv-BiwgAU4Q.js";import"./preload-helper-An3MBO2X.js";import"./vue-i18n.esm-DIMBKJm0.js";import"./dynamic-component-DTpWn4bU.js";import"./v-click-outside.umd-CHvyGna9.js";import"./_commonjsHelpers-Chg3vePA.js";import"./___vite-browser-external_commonjs-proxy-CFiMv3HM.js";import"./sha256-C6hLnjrm.js";window.idv=i;
+//# sourceMappingURL=idv-js-BfLu8whp.js.map
